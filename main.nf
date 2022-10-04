@@ -4,7 +4,8 @@
     nf-core/genomeskim
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Github : https://github.com/nf-core/genomeskim
-Website: https://nf-co.re/genomeskim
+
+    Website: https://nf-co.re/genomeskim
     Slack  : https://nfcore.slack.com/channels/genomeskim
 ----------------------------------------------------------------------------------------
 */
