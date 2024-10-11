@@ -1,1 +1,17 @@
+bump_version: null
+lint: null
+nf_core_version: 3.0.2
+org_path: null
 repository_type: pipeline
+template:
+  author: Thomas J. Creedy
+  description: QC and filtering of genome skims, followed by organelle assembly and/or
+    genome analysis
+  force: false
+  is_nfcore: true
+  name: genomeskim
+  org: nf-core
+  outdir: .
+  skip_features: null
+  version: 1.0dev
+update: null
